@@ -1,0 +1,27 @@
+body{
+    /* background: peru; */
+}
+
+h1{
+    color: black;
+}
+
+/* #title{} */
+.btn {
+    cursor: pointer;
+}
+
+
+.clicked {
+    color :#e74c3c;
+}
+
+
+.form,
+.js-greetings{
+    display: none;
+}
+
+.showing {
+    display: block;
+}
